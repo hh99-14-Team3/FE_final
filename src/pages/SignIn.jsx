@@ -4,6 +4,7 @@ function SignIn(props) {
     return (
         <div>
             로그인입니다.
+            <button>깜놀</button>
         </div>
     );
 }
